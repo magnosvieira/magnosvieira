@@ -2,6 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Atualmente aprendendo **HTML** e **CSS** (Cursos: DevClub e Curso em vídeo do Gustavo Guanabara) 
+
 🚀 Interessado em desenvolvimento web e boas práticas de código  
 📚 Sempre buscando evoluir e compartilhar conhecimento  
 
