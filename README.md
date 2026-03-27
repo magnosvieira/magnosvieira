@@ -10,13 +10,13 @@
 - Estrutura de páginas com HTML
 - Estilização e responsividade com CSS
 - Fundamentos de versionamento com Git e GitHub
-- Fundamentos de JavaScript
+- Fundamentos de JavaScript (A cursar)
 
-### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/magno-vieira-5a645066/)  
-- [Portfólio (em breve!)](https://github.com/magnosvieira)
-- [Instagram](https://www.instagram.com/magnovieira1/)
----
+<h3 align="left">### 📫 Como me encontrar:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/magno-vieira-5a645066/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/magnovieira1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <p>
   
