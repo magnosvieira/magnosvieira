@@ -14,7 +14,7 @@
 📚 Sempre buscando evoluir e compartilhar conhecimento  
 
 
-### 🌱 O que estou estudando
+🌱 O que estou estudando
 - Estrutura de páginas com HTML
 - Estilização e responsividade com CSS
 - Fundamentos de versionamento com Git e GitHub
