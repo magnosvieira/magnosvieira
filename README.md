@@ -18,17 +18,8 @@
 <a href="https://www.instagram.com/magnovieira1/" target="blank"><img align="center" src="Instagram_icon.png" alt="" height="30" width="30" /></a>
 </p>
 
-<p>
+<p>  
   
-<img 
-  align="left"
-  alt="estatisticas"
-  tittle="estatisticas"
-  hight="200px"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=magnosvieira&theme=merko&locale=pt-br&show_icons=true" 
-  />
-
   <img 
   align="left"
   alt="linguagens"
@@ -39,3 +30,5 @@
   />
 
   </p>
+
+
