@@ -7,7 +7,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="30" src="github_icon.png">
+  <img align="center" alt="Js" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
 </div>
 
 (Cursos: DevClub e Curso em vídeo do Gustavo Guanabara)<br><br>
