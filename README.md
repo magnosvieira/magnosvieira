@@ -30,17 +30,19 @@
   <a href="https://www.instagram.com/magnovieira1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
 
-<p>  
-  
-  <img 
-  align="left"
-  alt="linguagens"
-  tittle="linguagens"
-  hight="200px"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnosvieira&layout=compact&theme=merko&locale=pt-br&show_icons=true" 
+  <br>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=magnosvieira&theme=github-dark&locale=pt_BR&card_width=450&card_height=150" alt="GitHub Streak" /></a>
+
+  <img
+    align="left"
+    alt="linguagens"
+    tittle="linguagens"
+    hight="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnosvieira&layout=compact&theme=merko&locale=pt-br&show_icons=true" 
   />
 
-  </p>
+
 
 
